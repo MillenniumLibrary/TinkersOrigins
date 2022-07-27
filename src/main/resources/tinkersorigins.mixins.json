@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "tt432.tinkersorigins.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "tinkersorigins.refmap.json",
+  "mixins": [
+  ],
+  "client": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
